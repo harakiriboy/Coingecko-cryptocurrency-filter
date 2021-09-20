@@ -4,8 +4,10 @@ Python code which pulls the data from coingecko.com and filters out top N crypto
 
 ## Installation
 
+first of all install the PyPI pycoingecko library
+
 ```bash
-for this you need to
+pip install pycoingecko
 ```
 
 
