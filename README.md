@@ -1,5 +1,7 @@
 # Python-assignment1
 
-Installation 
+Python code which pulls the data from coingecko.com and filters out top N cryptocurrencies by market capitalization 
 
-"rnfnoit"
+#Installation
+
+for this you need to
