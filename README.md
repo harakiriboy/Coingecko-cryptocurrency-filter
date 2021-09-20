@@ -4,7 +4,9 @@ Python code which pulls the data from coingecko.com and filters out top N crypto
 
 ## Installation
 
-```bash for this you need to```
+```bash
+for this you need to
+```
 
 
 ## Usage
