@@ -5,3 +5,10 @@ Python code which pulls the data from coingecko.com and filters out top N crypto
 ## Installation
 
 for this you need to
+
+
+## Usage
+drjhgfbdsdfg
+
+## Examples
+ertyyutref
