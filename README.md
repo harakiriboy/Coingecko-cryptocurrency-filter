@@ -29,5 +29,6 @@ after this write file name and press enter
 ```bash
 ass1.py
 ```
+when code file executes just follow instructions in file
 ## Examples
 
