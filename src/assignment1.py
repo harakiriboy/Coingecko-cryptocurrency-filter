@@ -1,3 +1,6 @@
+# This is the alternative solution, there is used additional sorting action to be more accurate with response
+
+
 from pycoingecko import CoinGeckoAPI # importing CoinGeckoAPI wrapper from pycoingecko library 
 cg = CoinGeckoAPI() 
 from rich.console import Console # import and construct object Console from rich library which helps 
