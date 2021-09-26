@@ -31,6 +31,7 @@ ass1.py
 ```
 when code file executes just follow instructions in file
 ## Examples
+### From ass1.py file
 
 ```bash
 Yoo! Enter some number 'x', to get Top 'x' cryptocurrencies by Market capitalization:
@@ -121,4 +122,50 @@ Yoo! Enter some number 'x', to get Top 'x' cryptocurrencies by Market capitaliza
         'last_updated': '2021-09-21T17:15:44.271Z'
     }
 ]
+```
+
+### From assignment1.py file
+
+```bash
+Yoo! Enter some number 'x', to get Top 'x' cryptocurrencies by Market capitalization:
+10
+1   Bitcoin   819193762057   43508
+2   Ethereum   352243629251   3017.32
+3   Cardano   73133072713   2.29
+4   Tether   69724423875   1.01
+5   Binance Coin   53280974775   346.46
+6   XRP   44165731090   0.953359
+7   Solana   40568489745   137.23
+8   USD Coin   31080967721   1.0
+9   Polkadot   30527301404   29.64
+10   Dogecoin   27263904676   0.207425
+
+```
+
+```bash
+Yoo! Enter some number 'x', to get Top 'x' cryptocurrencies by Market capitalization:
+23
+1   Bitcoin   819193762057   43508
+2   Ethereum   352243629251   3017.32
+3   Cardano   73133072713   2.29
+4   Tether   69724423875   1.01
+5   Binance Coin   53280974775   346.46
+6   XRP   44165731090   0.953359
+7   Solana   40568489745   137.23
+8   USD Coin   31080967721   1.0
+9   Polkadot   30527301404   29.64
+10   Dogecoin   27263904676   0.207425
+11   Avalanche   14971846402   68.17
+12   Terra   14626488225   36.65
+13   Binance USD   13747462152   1.0
+14   Uniswap   12096128360   23.41
+15   Chainlink   11369103255   25.15
+16   Cosmos   10818941506   39.14
+17   Litecoin   10168440528   152.31
+18   Algorand   10046875989   1.73
+19   Bitcoin Cash   9663119561   515.73
+20   Wrapped Bitcoin   8928094060   43444
+21   Polygon   7523053697   1.14
+22   Internet Computer   7230981511   44.28
+23   FTX Token   6938525508   57.52
 ```
